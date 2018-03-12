@@ -3,6 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "ts_config.ts"
+    "ts_config.ts",
+    "vars.ts"
   ]
 }
