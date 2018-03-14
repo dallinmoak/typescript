@@ -6,6 +6,8 @@
     "ts_config.ts",
     "vars.ts",
     "data_types.ts",
-    "type_aliases.ts"
+    "type_aliases.ts",
+    "union_types.ts",
+    "interfaces.ts"
   ]
 }
