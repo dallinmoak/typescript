@@ -3,11 +3,6 @@
     "sourceMap": true
   },
   "files": [
-    "ts_config.ts",
-    "vars.ts",
-    "data_types.ts",
-    "type_aliases.ts",
-    "union_types.ts",
-    "interfaces.ts"
+    "interface_function.ts"
   ]
 }
