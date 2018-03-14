@@ -4,6 +4,8 @@
   },
   "files": [
     "ts_config.ts",
-    "vars.ts"
+    "vars.ts",
+    "data_types.ts",
+    "type_aliases.ts"
   ]
 }
